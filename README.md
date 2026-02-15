@@ -3,7 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pudinaman&label=Profile%20views&color=0e75b6&style=flat" alt="pudinaman" /> </p>
 
-<p align="left"> <a href="https://ayushraj.online"><img src="https://res.cloudinary.com/duuiibkdx/image/upload/v1771164833/portfolio_1_tjmazs.png" alt="pudinaman" /></a> </p>
+<p align="left">
+  <a href="https://ayushraj.online">
+    <img src="https://res.cloudinary.com/duuiibkdx/image/upload/v1771164833/portfolio_1_tjmazs.png"
+         alt="portfolio"
+         width="40"
+         height="40" />
+  </a>
+</p>
+
 
 - 🔭 I’m currently working on **Restaurant recommendation system**
 
