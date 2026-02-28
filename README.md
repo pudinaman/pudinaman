@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Ayush Raj</h1>
+<h1 align="center">Hi 👋, I'm Ayush Raj</h1>
 <h3 align="center">A passionate Computer Science Student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pudinaman&label=Profile%20views&color=0e75b6&style=flat" alt="pudinaman" /> </p>
